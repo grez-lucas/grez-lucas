@@ -37,7 +37,7 @@
 <br/>
 
 <a href="https://github-readme-stats-beige-phi-23.vercel.app">
-  <img height=200 align="center" src="https://github-readme-stats-beige-phi-23.vercel.app/api/top-langs/?username=grez-lucas" />
+  <img height=200 align="center" src="https://github-readme-stats-seven-beige-47.vercel.app/api/top-langs/?username=grez-lucas" />
 </a>
 
 <hr/>
