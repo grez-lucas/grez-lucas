@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **GoLang & DevOps**
 
-⚡ Tip **You're much less likely to encounter wandering monsters when following a road.**
+⚡ Tip: **You're much less likely to encounter wandering monsters when following a road.**
 
  </div>
 
