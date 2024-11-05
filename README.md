@@ -8,11 +8,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Aynitech**
+ 🔭 I’m currently working at **Aynitech**
  
  🌱 I’m currently learning **GoLang & DevOps**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Tip **You're much less likely to encounter wandering monsters when following a road.**
 
  </div>
 
