@@ -10,7 +10,7 @@
  
  🔭 I’m currently working at **Aynitech**
  
- 🌱 I’m currently learning **GoLang & DevOps**
+ 🌱 I’m currently learning **GoLang, C# & DevOps**
 
 ⚡ Tip: **You're much less likely to encounter wandering monsters when following a road.**
 
