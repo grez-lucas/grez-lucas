@@ -31,14 +31,14 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,vue,pinia,flutter,bootstrap,html,css,vscode,github,figma,tailwind,git,linux,docker" />
-    <img src="https://skillicons.dev/icons?i=nodejs,py,javascript,typescript,mongodb,c,go,nextjs,postgres,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,py,javascript,typescript,mongodb,c,go,nextjs,postgres,flask,ruby,c#" /><br>
 </div>
 
 <br/>
 
 <div align="center">
 <a href="https://github-readme-stats-beige-phi-23.vercel.app">
-  <img height=300 align="center" src="https://github-readme-stats-seven-beige-47.vercel.app/api/top-langs/?username=grez-lucas&langs_count=8&layout=compact" />
+  <img height=300 align="center" src="https://github-readme-stats-seven-beige-47.vercel.app/api/top-langs/?username=grez-lucas&langs_count=6&layout=compact" />
 </a>
 </div>
 
